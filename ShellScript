@@ -11,3 +11,4 @@ O comando whoami exibe o usuário logado no sistema;
 O comando uptime exibe a hora atual, o tempo decorrido desde que o computador foi ligado, o número de usuários logados e uma média do número de processos carregados nos últimos um, cinco e 15 minutos;
 O comando pwd exibe o diretório no qual o arquivo está rodando.
 Toda string que contiver espaços deve estar entre aspas duplas.
+  a
